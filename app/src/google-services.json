@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396631690581",
+    "firebase_url": "https://budgetbase-27f90-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "budgetbase-27f90",
+    "storage_bucket": "budgetbase-27f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396631690581:android:f02f9e301fe6a47416f3dc",
+        "android_client_info": {
+          "package_name": "pl.cyfrogen.budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396631690581-2qsfqd6dtsbs41c2afoj49k0tq2935d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.cyfrogen.budget",
+            "certificate_hash": "6845cc65c16297002daf2a3af677584ce6ab6fe3"
+          }
+        },
+        {
+          "client_id": "396631690581-iloqrjjtepfcunv2pujh8hgd70rvstb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodIqGIrwD7xgPMIsR1f-ibkJdWyGL2bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396631690581-iloqrjjtepfcunv2pujh8hgd70rvstb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
